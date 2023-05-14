@@ -1,8 +1,8 @@
 <entries>
 <entry name="GAME_TITLE">Hollow Knight</entry>
-<entry name="PRE_MENU_QUOTE">Getting lost and finding your way again is a pleasure like no other.</entry>
+<entry name="PRE_MENU_QUOTE">Rõõmule, mida tunned, kui oled eksinud ja siis leiad tee tagasi oma rajale ei ole võrdset.</entry>
 <entry name="GAME_DISPLAY_TITLE"></entry>
-<entry name="SAVE_WARNING">This game saves data automatically at certain points.&lt;br&gt; Please do not turn off the software while this symbol is displayed.</entry>
+<entry name="SAVE_WARNING">[See] mäng talletab andmed automaatselt teatud perioodi tagant // teatud kohtades.&lt;br&gt; Ärge palun sulgege tarkvara ajal kui see sümbol on kuvaril nähtav.</entry>
 <entry name="CONTROL_PROMPT">use of a controller is highly recommended</entry>
 <entry name="VERSION_NUMBER">- - -</entry>
 <entry name="PROLOGUE_EXCERPT_AUTHOR">- From &#39;Elegy for Hallownest&#39; by Monomon the Teacher </entry>

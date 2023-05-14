@@ -14,7 +14,7 @@
 <entry name="DREAM_PLANT_SHAMAN">...Soul attuned...&lt;page&gt;...Spiral focus...&lt;page&gt;...Shunned Power...</entry>
 <entry name="KING_IDOL_CORPSE_02">...Saviour...</entry>
 <entry name="GIRAFFE_CORPSE">...Please... Not food...</entry>
-<entry name="TUT_TAB_03">Higher beings, these words are for you alone.&lt;br&gt;&lt;br&gt;Within our lands do not hide your true form. Let all bask in your majesty, for only this kingdom could produce ones such as you.</entry>
+<entry name="TUT_TAB_03">Kõrgemad olendid, need sõnad on üksnes teile.&lt;br&gt;&lt;br&gt;Meie maadel ärge varjake oma tõelist vormi. Laske kõigil kümmelda teie maiesteetlikkuses, sest ainult see kuningriik suudab luua teiesuguseid.</entry>
 <entry name="GARDEN_CORPSE_01">...Lost...</entry>
 <entry name="DREAM_PLANT_ABYSS_01">...Kingdom above...&lt;page&gt;...Palace below...&lt;page&gt;...Servants&#39; path...</entry>
 <entry name="LURIAN_JOURNAL">Sleep beckons eternal and these words become my last.&lt;br&gt;Though my gaze shall no longer fall upon this city, I will act forever in its protection.&lt;page&gt;For King, for bug, for Hallownest, I head now to my rest.</entry>
@@ -57,7 +57,7 @@
 <entry name="APARTMENT_ROYAL_01">...Hungry...</entry>
 <entry name="HIGHER_BEING_CORPSE">...No king... No mind... Release...</entry>
 <entry name="BELIEVE_MOTH_02">Such destruction... Is this your way of honouring those who believe?&lt;page&gt;Their riddles and ramblings may seem to us meaningless, or indecipherable, or grotesque...&lt;page&gt;But if they did not believe... what would become of you and I?</entry>
-<entry name="TUT_TAB_02">Higher beings, these words are for you alone.&lt;br&gt;&lt;br&gt;Beyond this point you enter the land of King and Creator.&lt;br&gt;Step across this threshold and obey our laws.&lt;br&gt;&lt;page&gt;Bear witness to the last and only civilisation, the eternal Kingdom.&lt;br&gt;&lt;br&gt;Hallownest</entry>
+<entry name="TUT_TAB_02">Kõrgemad olendid, need sõnad on üksnes teile.&lt;br&gt;&lt;br&gt;Siit alates sisenete te Kuninga ja Looja maale.&lt;br&gt;Astuge sellest lävest üle ja kuuletuge meie seadustele.&lt;br&gt;&lt;page&gt;Olge tunnistajaks viimasele ja ainsale tsivilisatsioonile, igavesele kuningriigile.&lt;br&gt;&lt;br&gt;Pühapesale</entry>
 <entry name="ARCHIVE_02">-KINGLIGHT-EM-GROWTH-INKIND-FLOW-ALLTHINK-ENFIELD&lt;br&gt;OLDLIGHT-EM-ESSENCE-EM-DREAM-EM-UNGROWTH&lt;br&gt;O-ENDTHINK-ABA-KINGLIGHT-CH-OLDLIGHT-THEMKIN-O-CH&lt;br&gt;THINKFLOW-ABA-DREAM-UNCONTAIN-THIR-UNGROWTH-ENDLIFE-</entry>
 <entry name="RUINS_MARISSA_POSTER">Songstress Marissa&lt;br&gt;A voice to ease all burdens and still all troubled minds.</entry>
 <entry name="KING_IDOL_CORPSE_01">...My King...</entry>
@@ -98,7 +98,7 @@
 <entry name="MISSING_PALACE_CORPSES">...Where have you gone?.. Dear King...</entry>
 <entry name="DREAM_PLANT_KING_EDGE">...Sacred grave...&lt;page&gt;...Ashen ground...&lt;page&gt;...Kingdom&#39;s birth...</entry>
 <entry name="MUMMY_CORPSE_01">...So... dark...</entry>
-<entry name="TUT_TAB_01">Higher beings, these words are for you alone. &lt;br&gt;&lt;br&gt;Your great strength marks you amongst us. Focus your soul and you shall achieve feats of which others can only dream.</entry>
+<entry name="TUT_TAB_01">Kõrgemad olendid, need sõnad on üksnes teile. &lt;br&gt;&lt;br&gt;Teie suur jõud tõstab teid meie seast esile. Keskenduge oma hinge ja võite korda saata vägitegusid, millest teised oskavad ainult unistada.</entry>
 <entry name="MOTH_STATUE">...Remember... Light...</entry>
 <entry name="GLAD_OUTSKIRTS_01">...I was a champion... I won&#39;t die here...</entry>
 <entry name="JOURNAL_FAT_MOSS_CULTIST">The corpse of a Mossy Vagabond overcome with infection.</entry>

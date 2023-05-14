@@ -1,16 +1,16 @@
 <entries>
-<entry name="CITY_OF_TEARS_1">City Storerooms</entry>
-<entry name="DIRTMOUTH">Dirtmouth</entry>
-<entry name="DEEPNEST">Distant Village</entry>
-<entry name="KINGS_STATION">King&#39;s Station</entry>
-<entry name="RESTING_GROUNDS">Resting Grounds</entry>
-<entry name="HIDDEN_STATION">Hidden Station</entry>
-<entry name="STAG_NEST">Stag Nest</entry>
-<entry name="ROYAL_GARDENS">Queen&#39;s Gardens</entry>
-<entry name="GREENPATH">Greenpath</entry>
-<entry name="STATIONS">Stations</entry>
-<entry name="BONE_FOREST">Bone Forest</entry>
-<entry name="CROSSROADS">Forgotten Crossroads</entry>
-<entry name="FUNGAL_WASTES">Queen&#39;s Station</entry>
-<entry name="PALACE_GROUNDS">Palace Grounds</entry>
+<entry name="CITY_OF_TEARS_1">Linna laoruumid</entry>
+<entry name="DIRTMOUTH">Maasuu</entry>
+<entry name="DEEPNEST">Kauge küla</entry>
+<entry name="KINGS_STATION">Kuninga jaam</entry>
+<entry name="RESTING_GROUNDS">Viimne puhkepaik</entry>
+<entry name="HIDDEN_STATION">Varjatud jaam</entry>
+<entry name="STAG_NEST">Hirvpõrnikate pesa</entry>
+<entry name="ROYAL_GARDENS">Kuninganna aiad</entry>
+<entry name="GREENPATH">Roherada</entry>
+<entry name="STATIONS">Jaamad</entry>
+<entry name="BONE_FOREST">Luumets</entry>
+<entry name="CROSSROADS">Unustatud ristteed</entry>
+<entry name="FUNGAL_WASTES">Kuninganna jaam</entry>
+<entry name="PALACE_GROUNDS">Palee alad</entry>
 </entries>

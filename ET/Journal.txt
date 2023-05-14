@@ -246,7 +246,7 @@
 <entry name="NOTE_GHOST_NOEYES">They&#39;re coming...&lt;br&gt;What&#39;s inside of you...&lt;br&gt;Strip it out!&lt;br&gt;- No Eyes</entry>
 <entry name="NOTE_ZOM_HORNHEAD">These bugs have an arrogant air about them, even after dying. Overly proud of their long horns! I enjoy snapping them off.</entry>
 <entry name="NAME_ZOM_MINER">Husk Miner</entry>
-<entry name="NAME_NAILMASTERS">Nailmasters Oro &amp; Mato</entry>
+<entry name="NAME_NAILMASTERS">Naelameistrid Oro &amp; Mato</entry>
 <entry name="NOTE_MANTIS_FLYER_CHILD">As it grows, it loses the ability to fly. Passage into adulthood is often celebrated, but as time goes by we realise what we have lost.</entry>
 <entry name="NAME_BEE_HATCHLING">Hiveling</entry>
 <entry name="NAME_ZOM_BURSTING">Violent Husk</entry>

@@ -2,11 +2,11 @@
 <entry name="GAME_BACKER_NAMES">Toetajate loetelu // nimekiri:</entry>
 <entry name="UI_MENU_ACHIEVEMENTS_XB1">Saavutused</entry>
 <entry name="DESC_VSYNC">Jätke sisse, et kaardisagedus oleks ühtlasem. Hoiab ära kuvarebenemise.</entry>
-<entry name="VIDEO_SHADERS">Bokeh-ähmasuse laad:</entry>
+<entry name="VIDEO_SHADERS">Boke-ähmasuse laad:</entry>
 <entry name="PROFILE_CORRUPTED">Talleta rikutud</entry>
 <entry name="ACHIEVEMENTS_BASE_SET_TITLE">Hollow Knight saavutused</entry>
 <entry name="MOH_LOW">Madal</entry>
-<entry name="DESC_SHADERS">Vähenda, et parandada nõrgemate arvutite sooritusvõimet.</entry>
+<entry name="DESC_SHADERS">Vähendage, et parandada nõrgemate arvutite sooritusvõimet.</entry>
 <entry name="DESC_BACKER_NAMES">Näita Kickstarteri toetajate nimesid nende osutatud panuste kõrval.</entry>
 <entry name="SCREEN_ACHIEVEMENTS">Saavutused</entry>
 <entry name="LANG_ET">Eesti</entry>
